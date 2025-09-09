@@ -4,7 +4,7 @@ import string
 import requests
 
 # Загрузка списка общих паролей из URL
-COMMON_PASSWORDS_URL = 'https://kali.tools/files/passwords/password_dictionaries/10-char-common-passwords.txt'
+//COMMON_PASSWORDS_URL = 'https://kali.tools/files/passwords/password_dictionaries/10-char-common-passwords.txt'
 
 def load_common_passwords(url):
     try:
